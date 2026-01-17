@@ -92,7 +92,7 @@ const MenuHero = () => {
         className="absolute bottom-10 left-1/2 -translate-x-1/2 z-20"
       >
         <Image 
-          src="/icons/mouse.svg" 
+          src="/icons/Mouse.svg" 
           alt="Scroll Down"
           width={80}  
           height={60} 

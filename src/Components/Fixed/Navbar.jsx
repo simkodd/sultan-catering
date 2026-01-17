@@ -18,7 +18,7 @@ const Navbar = () => {
           <div className="shrink-0 flex items-center">
             <Link href="/" >
               <Image
-                src="/logo.svg"
+                src="/Logo.svg"
                 alt="Sultan Catering"
                 width={150}
                 height={50}
