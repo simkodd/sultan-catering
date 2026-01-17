@@ -42,7 +42,7 @@ export default function BookingForm() {
 
         try {
             // API'ye istek atıyoruz
-            const response = await fetch('/API/send-email', {
+            const response = await fetch('/api/send-email', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
