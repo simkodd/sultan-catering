@@ -15,13 +15,16 @@ export const metadata = {
   title: "Sultan Catering | Authentic Shawarma & Food Truck",
   description: "Experience the best Turkish food in the UK with Sultan Catering. We provide professional food truck catering for weddings, events, and parties.",
   icons: {
-    icon: '/Logo.svg', // Tarayıcı sekmesindeki küçük ikon
+    icon: '/favicon.ico', // Tarayıcı sekmesindeki küçük ikon
   },
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <meta name="google-site-verification" content="n0jYgPGvT7-92FrbumlXjxS2m3kER8iyvPj1KrLIAck" />
+      </head>
       <body
         className={`${robotoCondensed.variable} antialiased`}
       >
