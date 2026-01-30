@@ -14,9 +14,9 @@ const robotoCondensed = Roboto_Condensed({
 export const metadata = {
   title: "Sultan Catering | Authentic Shawarma & Food Truck",
   description: "Experience the best Turkish food in the UK with Sultan Catering. We provide professional food truck catering for weddings, events, and parties.",
-  icons: {
-    icon: '/favicon.ico', // Tarayıcı sekmesindeki küçük ikon
-  },
+  //icons: {
+  //  icon: '/favicon.ico', // Tarayıcı sekmesindeki küçük ikon
+  //},
 };
 
 export default function RootLayout({ children }) {
