@@ -4,8 +4,8 @@ import MenuCards from "@/Components/Menu/MenuCards";
 import Loved from "@/Components/Menu/Loved";
 
 export const metadata = {
-  title: "Catering Menu | Sultan Catering - Shawarma & Wraps",
-  description: "Explore our mouth-watering catering menu. From signature Shawarmas to gourmet burgers, discover the perfect food options for your next event.",
+  title: "Catering Menu | Sultan Shawarma, Wraps & Event Catering",
+  description: "Explore our mouth-watering wedding, party, and corporate catering menu. From signature Turkish shawarmas to gourmet burgers, find the perfect food options for your next event in Nottingham and beyond.",
 };
 
 export default function About() {
