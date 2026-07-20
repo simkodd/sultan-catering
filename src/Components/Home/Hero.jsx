@@ -102,7 +102,7 @@ const Hero = () => {
                     transition={{ duration: 0.6, delay: 1.2 }}
                     className="uppercase text-sm md:text-lg mb-4 text-bej"
                 >
-                    We Travel to You!
+                    We Travel to You !
                 </motion.p>
 
                 {/* Turuncu Buton */}
