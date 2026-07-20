@@ -4,8 +4,8 @@ import MenuCards from "@/Components/Menu/MenuCards";
 import Loved from "@/Components/Menu/Loved";
 
 export const metadata = {
-  title: "Catering Menu | Sultan Shawarma, Wraps & Event Catering",
-  description: "Explore our mouth-watering wedding, party, and corporate catering menu. From signature Turkish shawarmas to gourmet burgers, find the perfect food options for your next event in Nottingham and beyond.",
+  title: "Catering Menu | Sultan Shawarma & Nationwide Event Catering",
+  description: "Explore our catering menu for weddings, parties, and corporate events. Proudly based in Nottingham, delivering exceptional live cooking experiences all over the UK.",
 };
 
 export default function About() {

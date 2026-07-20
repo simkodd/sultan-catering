@@ -70,13 +70,13 @@ const Hero = () => {
                         className="font-roboto text-white text-base drop-shadow-md space-y-2 max-w-3/4"
                     >
                         <p>
-                            What started as a passion for authentic Middle Eastern flavors has grown into <span className="font-bold"> Nottingham's favorite street food truck.</span>
+                            What started as a passion for authentic Middle Eastern flavors has grown into one of the <span className="font-bold">UK's favorite mobile street food trucks, proudly based in Nottingham.</span>
                         </p>
                         <p>
                             Our philosophy is simple: <span className="italic font-light ">fresh ingredients, cook with heart, and serve every meal with a smile.</span>
                         </p>
                         <p>
-                            When you book us for your <span className="font-semibold"> weddings, parties, or corporate events</span>, you don't just get a food truck; you get a team that truly cares about your experience.
+                            When you book us for your <span className="font-semibold"> weddings, parties, or corporate events across the UK</span>, you don't just get a food truck; you get a team that truly cares about your experience.
                         </p>
                     </motion.div>
 

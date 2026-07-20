@@ -70,7 +70,7 @@ const Hero = () => {
 
                 {/* --- HARF HARF ANİMASYONLU BAŞLIK --- */}
                 <motion.h1
-                    className="font-roboto font-semibold tracking-widest text-6xl md:text-7xl lg:text-8xl mb-8 drop-shadow-[0_0px_5px_#00000070]"
+                    className="font-roboto font-semibold tracking-widest text-6xl md:text-7xl lg:text-8xl mb-4 drop-shadow-[0_0px_5px_#00000070]"
                     variants={containerVariants} // Orkestra şefini (Container) bağladık
                     initial="hidden"
                     animate="visible"
@@ -96,6 +96,14 @@ const Hero = () => {
                         ))}
                     </span>
                 </motion.h1>
+                <motion.p
+                    initial={{ opacity: 0, y: -20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.6, delay: 1.2 }}
+                    className="uppercase text-sm md:text-lg mb-4 text-bej"
+                >
+                    We Travel to You!
+                </motion.p>
 
                 {/* Turuncu Buton */}
                 <motion.div
