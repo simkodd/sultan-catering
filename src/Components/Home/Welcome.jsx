@@ -98,7 +98,7 @@ const Welcome = () => {
             {/* RESİM ÇERÇEVESİ: Yuvarlak köşeler ve büyük gölge */}
             <div className="relative h-100 md:w-2/3 w-full rounded-b-[50px] overflow-hidden shadow-[0_0px_20px_#46731E90] ">
               <Image
-                src="/Welcome22.png" 
+                src="/Welcome2.png" 
                 alt="Sultan Catering Chefs"
                 fill
                 unoptimized

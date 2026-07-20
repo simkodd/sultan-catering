@@ -58,6 +58,8 @@ const Hero = () => {
                         transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
                         className="font-roboto text-bej text-lg md:text-2xl font-medium mb-2 drop-shadow-md"
                     >
+                                                    <span className="italic font-semibold">Hi, I'm Sultan.</span> <br />
+
                         For me, serving food isn't just <br className="block md:hidden"/> a job; it's about bringing <br className="block md:hidden"/> people together.
                     </motion.p>
 
@@ -68,14 +70,13 @@ const Hero = () => {
                         className="font-roboto text-white text-base drop-shadow-md space-y-2 max-w-3/4"
                     >
                         <p>
-                            <span className="italic font-semibold">Hi, I'm Sultan.</span> <br />
-                            What started as a passion for authentic Middle Eastern flavors has grown into one of the UK's favorite street food stops.
+                            What started as a passion for authentic Middle Eastern flavors has grown into <span className="font-bold"> Nottingham's favorite street food truck.</span>
                         </p>
                         <p>
                             Our philosophy is simple: <span className="italic font-light ">fresh ingredients, cook with heart, and serve every meal with a smile.</span>
                         </p>
                         <p>
-                            When you book us, you don't just get a food truck; you get a team that truly cares about your experience.
+                            When you book us for your <span className="font-semibold"> weddings, parties, or corporate events</span>, you don't just get a food truck; you get a team that truly cares about your experience.
                         </p>
                     </motion.div>
 
