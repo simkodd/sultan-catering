@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
       <head>
         <meta name="google-site-verification" content="n0jYgPGvT7-92FrbumlXjxS2m3kER8iyvPj1KrLIAck" />
       </head>
-      <body
+      <body suppressHydrationWarning={true}
         className={`${robotoCondensed.variable} antialiased`}
       >
         <Navbar />
